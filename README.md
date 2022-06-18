@@ -1,5 +1,7 @@
-# flappy-bird
-![header](https://user-images.githubusercontent.com/38620899/106385660-2de04b00-63b0-11eb-9747-843cdc397c76.PNG)
+# PROJETO | Flappy-Bird
+
+<center><img src="https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png"  width="100" height="100"></center>
+
 
 > Status: Developing ⚠️
 ### It is a web application planned by me, game flappy-bird.
@@ -70,7 +72,7 @@ Also that, has a User with this fields:
 4) choice Laravel option in Integrations
 5) copy and past in your .env
 
-<center><img src="https://user-images.githubusercontent.com/38620899/106393900-5aa85880-63d8-11eb-88f1-07ac30adad80.gif"></center>
+<center><img src="imagem do projeto"></center>
 
     © 2022 GitHub, Inc.
 
