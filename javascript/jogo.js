@@ -1,7 +1,7 @@
 console.log('[DevSoutinho] Flappy Bird');
 
 const sprites = new Image();
-sprites.src = './sprites.png';
+sprites.src = './images/sprites.png';
 
 const canvas = document.querySelector('canvas');
 const contexto = canvas.getContext('2d');
@@ -64,6 +64,7 @@ const chao = {
   },
 };
 
+// [Personagem]
 const flappyBird = {
   spriteX: 0,
   spriteY: 0,
