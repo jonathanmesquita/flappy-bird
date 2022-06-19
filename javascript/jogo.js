@@ -1,4 +1,4 @@
-console.log('[DevSoutinho] Flappy Bird');
+console.log('teste');
 
 const sprites = new Image();
 sprites.src = './images/sprites.png';
@@ -72,7 +72,15 @@ const flappyBird = {
   altura: 24,
   x: 10,
   y: 50,
-  desenha() {
+  gravidade: 0.25, 
+  velocidade: 0,
+
+  atualiza() {
+    flappyBird.velocidade = flappyBird.velocidade
+    flappyBird.y = flappyBird.y + 1;
+  }
+
+  ,desenha() {
     contexto.drawImage(
       sprites,
       flappyBird.spriteX, flappyBird.spriteY, // Sprite X, Sprite Y
@@ -84,6 +92,7 @@ const flappyBird = {
 }
 
 function loop() {
+  flappyBird.atualiza();
   planoDeFundo.desenha();
   chao.desenha();
   flappyBird.desenha();
