@@ -1,5 +1,5 @@
 
-> Projeto da fazer um jogo com JavaScript do ZERO!
+> Projeto, fazer um jogo com JavaScript do ZERO!
 > 
 > Quer ver como ta ficando? Acessa a [**DEMO**](XX)
 <p align="center">
