@@ -1,7 +1,7 @@
 
 > Projeto, fazer um jogo com JavaScript do ZERO!
 > 
-> Quer ver como ta ficando? Acessa a [**DEMO**](XX)
+> Quer ver como ta ficando? Acessa a [**DEMO**](https://jonathanmesquita.github.io/flappy-bird/)
 <p align="center">
   <img alt="Logo do projeto" src="./_docs/logo.png" />
 </p>
