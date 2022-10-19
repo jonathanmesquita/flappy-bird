@@ -13,8 +13,12 @@
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://https://github.com/jonathanmesquita/flappy-bird/blob/main/images/flappy-bird.gif
+<p align="center">
+  <img alt="Logo do projeto" src=![](https://https://github.com/jonathanmesquita/flappy-bird/blob/main/images/flappy-bird.gif
 #vitrinedev)
+ />
+</p>
+
 
 
 ## Contributing/Contribuir
