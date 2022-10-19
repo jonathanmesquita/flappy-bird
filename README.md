@@ -1,36 +1,40 @@
+# Projeto, fazer um jogo com JavaScript do ZERO!
 
-> Projeto, fazer um jogo com JavaScript do ZERO!
-> 
-> Quer ver como ta ficando? Acessa a [**DEMO**](https://jonathanmesquita.github.io/flappy-bird/)
+Nesse objetivo do projeto a programar um jogo simples usando apenas html, css e JavaScript.
+
+Ao final, você terá feito um jogo onde é possível pular obstáculos. O jogo termina quando você colide com algum obstáculo.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Projeto javascript jogo mario.**
+| :label: Tecnologias | javascript, html, css
+| :rocket: URL         | Quer ver como ta ficando? Acessa a [**DEMO**](https://jonathanmesquita.github.io/flappy-bird/)
+| :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](x)
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+
 <p align="center">
   <img alt="Logo do projeto" src="./_docs/logo.png" />
 </p>
 
-
-
-
-
-
-
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <p align="center">
-  <img alt="Logo do projeto" src=![](https://https://github.com/jonathanmesquita/flappy-bird/blob/main/images/flappy-bird.gif
-#vitrinedev)
- />
+  <img alt="Logo do projeto" src="images/flappy-bird.gif#vitrinedev"/>
 </p>
 
+## Detalhes do projeto
 
+Esse projeto não possui um sistema de versionamento.
+
+
+- Colocar descrição do projeto JavaScript
+
+
+## License/Licença do Projeto
+[MIT License](./LICENSE.md) © [Jonathan Mesquita]
 
 ## Contributing/Contribuir
 
 Professor - Mario Souto - Dev Soutinho
 
 ## Versioning/Versionamento
-
-Esse projeto não possui um sistema de versionamento.
-
-## History/Histórico
-Da uma olhada na aba [Releases](SEM LINK) pra acompanhar as alterações feitas no projeto.
-
-## License/Licença do Projeto
-[MIT License](./LICENSE.md) © [Jonathan Mesquita]
