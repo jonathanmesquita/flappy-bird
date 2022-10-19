@@ -6,6 +6,17 @@
   <img alt="Logo do projeto" src="./_docs/logo.png" />
 </p>
 
+
+
+
+
+
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://https://github.com/jonathanmesquita/flappy-bird/blob/main/images/flappy-bird.gif
+#vitrinedev)
+
+
 ## Contributing/Contribuir
 
 Professor - Mario Souto - Dev Soutinho
