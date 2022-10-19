@@ -36,5 +36,3 @@ Esse projeto não possui um sistema de versionamento.
 ## Contributing/Contribuir
 
 Professor - Mario Souto - Dev Soutinho
-
-## Versioning/Versionamento
