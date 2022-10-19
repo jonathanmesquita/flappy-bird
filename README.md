@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Logo do projeto" src="./_docs/logo.png" />
+</p>
+
 # Projeto, fazer um jogo com JavaScript do ZERO!
 
 Nesse objetivo do projeto a programar um jogo simples usando apenas html, css e JavaScript.
@@ -11,13 +15,11 @@ Ao final, você terá feito um jogo onde é possível pular obstáculos. O jogo 
 | :rocket: URL         | Quer ver como ta ficando? Acessa a [**DEMO**](https://jonathanmesquita.github.io/flappy-bird/)
 | :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](x)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-<p align="center">
-  <img alt="Logo do projeto" src="./_docs/logo.png" />
-</p>
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+
+## Preview
+
 <p align="center">
   <img alt="Logo do projeto" src="images/flappy-bird.gif#vitrinedev"/>
 </p>
