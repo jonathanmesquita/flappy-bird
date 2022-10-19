@@ -6,7 +6,7 @@ Ao final, você terá feito um jogo onde é possível pular obstáculos. O jogo 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Projeto javascript jogo mario.**
+| :sparkles: Nome        | **Projeto javascript jogo flappy-bird.**
 | :label: Tecnologias | javascript, html, css
 | :rocket: URL         | Quer ver como ta ficando? Acessa a [**DEMO**](https://jonathanmesquita.github.io/flappy-bird/)
 | :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](x)
