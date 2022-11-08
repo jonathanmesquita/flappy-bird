@@ -21,7 +21,8 @@ Ao final, você terá feito um jogo onde é possível pular obstáculos. O jogo 
 ## Preview
 
 <p align="center">
-  <img alt="Logo do projeto" src="https://github.com/jonathanmesquita/flappy-bird/raw/main/images/flappy-bird.gif#vitrinedev"/>
+  <img alt="Logo do projeto" src="https://raw.githubusercontent.com/jonathanmesquita/flappy-bird/main/images/flappy-bird.gif#vitrinedev"/>
+
 </p>
 
 ## Detalhes do projeto
